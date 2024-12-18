@@ -1,0 +1,16 @@
+[project]
+name = "mnist-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fvcore>=0.1.5.post20221221",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.0",
+    "prettytable>=3.12.0",
+    "scikit-learn>=1.6.0",
+    "tensorboard>=2.18.0",
+    "torch>=2.5.1",
+    "torchvision>=0.20.1",
+]
